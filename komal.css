@@ -1,0 +1,16 @@
+.Phones h1
+{
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 40px;
+color: green;
+
+}
+p{
+
+    color: blue;
+}
+p.large-text{
+
+font-size: 40px;
+}
